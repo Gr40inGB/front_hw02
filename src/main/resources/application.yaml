@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: front_hw02
